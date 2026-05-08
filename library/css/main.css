@@ -1,0 +1,362 @@
+/* Custom font */
+@font-face {
+  font-family: 'Mikodacs';
+  src: url('../assets/fonts/Mikodacs.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Main directory of shared CSS values of the whole website */
+:root {
+  /* Background colors */
+  --color-bg-base:        #332a25; /* Main page background */
+  --color-bg-surface:     #47362c; /* Cards, panels, containers */
+  --color-bg-elevated:    #6e5c44; /* Hover states, popups */
+
+  /* Text colors */
+  --color-text-primary:   #e8e8e8; /* Main body text */
+  --color-text-secondary: #afafaf; /* Subtitles, labels, descriptions */
+  --color-text-muted:     #949494; /* Placeholder text, disabled states */
+
+  /* Accent colors */
+  --color-accent:         #ad915b; /* Primary accent, links, active states */
+  --color-accent-hover:   #af8b41; /* Accent on hover */
+
+  /* Border colors */
+  --color-border:         #754c30; /* General borders and dividers */
+
+  /* Typography */
+  --font-primary:         'Georgia', serif;
+  --font-gift-name:       'Mikodacs', 'Georgia', serif;
+  --font-size-base:       16px;
+  --font-size-sm:         14px;
+  --font-size-lg:         20px;
+  --font-size-xl:         28px;
+  --font-size-xxl:        40px;
+  --line-height-base:     1.6;
+
+  /* Spacing */
+  --spacing-xs:           4px;
+  --spacing-sm:           8px;
+  --spacing-md:           16px;
+  --spacing-lg:           24px;
+  --spacing-xl:           40px;
+  --spacing-xxl:          64px;
+
+  /* Border radius */
+  --radius-sm:            4px;
+  --radius-md:            8px;
+  --radius-lg:            12px;
+
+  /* Layout */
+  --max-width:            1200px;
+  --navbar-height:        60px;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--font-size-base);
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-bg-base);
+  color: var(--color-text-primary);
+  font-family: var(--font-primary);
+  line-height: var(--line-height-base);
+  min-height: 100vh;
+}
+
+/* Background images for the planner, gift, and pack section */
+.page-gifts {
+  background-image: url('../html/assets/images/background/bg2.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.page-packs {
+  background-image: url('../html/assets/images/background/bg1.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.page-planner {
+  background-image: url('../html/assets/images/background/bg3.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+/* Directory for shared CSS typography */
+h1 {
+  font-size: var(--font-size-xxl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+h2 {
+  font-size: var(--font-size-xl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+h3 {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-xs);
+}
+
+p {
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-base);
+  margin-bottom: var(--spacing-sm);
+}
+
+a {
+  color: var(--color-accent);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--color-accent-hover);
+}
+
+
+/* Navigation bar */
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: var(--navbar-height);
+  padding: 0 var(--spacing-xl);
+  background-color: var(--color-bg-surface);
+  border-bottom: 1px solid var(--color-border);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.navbar-logo {
+  font-size: var(--font-size-lg);
+  font-weight: bold;
+  color: var(--color-text-primary);
+}
+
+.navbar-logo:hover {
+  color: var(--color-accent);
+}
+
+.navbar-links {
+  display: flex;
+  gap: var(--spacing-lg);
+  list-style: none;
+}
+
+.navbar-link {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--radius-sm);
+  transition: color 0.2s ease;
+}
+
+.navbar-link:hover {
+  color: var(--color-accent);
+}
+
+.navbar-link--active {
+  color: var(--color-accent);
+  border-bottom: 2px solid var(--color-accent);
+}
+
+.page-header {
+  padding: var(--spacing-xl) 0 var(--spacing-lg);
+  border-bottom: 1px solid var(--color-border);
+  margin-bottom: var(--spacing-lg);
+}
+
+.page-title {
+  font-size: var(--font-size-xxl);
+  color: var(--color-text-primary);
+}
+
+.page-desc {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+}
+
+
+/* Filter bar base design */
+.filter-bar {
+  background-color: var(--color-bg-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-md);
+  margin-bottom: var(--spacing-lg);
+}
+
+.filter-bar-title {
+  font-size: var(--font-size-base);
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Filter button grouping and wrapping */
+.filter-group {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-sm);
+}
+
+/* Applies the same exact offset for the buttons */
+.filter-group-label {
+  font-size: var(--font-size-sm);
+  color: var(--color-text-muted);
+  min-width: 90px;
+  flex-shrink: 0;
+  padding-top: 4px;
+}
+
+.filter-group-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+  flex: 1;
+}
+
+.filter-bar-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+}
+
+/* Filter button */
+.filter-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  background-color: var(--color-bg-elevated);
+  color: var(--color-text-secondary);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+
+.filter-btn:hover {
+  background-color: var(--color-accent);
+  color: var(--color-text-primary);
+  border-color: var(--color-accent);
+}
+
+.filter-btn--active {
+  background-color: var(--color-accent);
+  color: var(--color-text-primary);
+  border-color: var(--color-accent);
+}
+
+/* Icon beside the button label, inside the button */
+.filter-btn-icon {
+  width: 16px;
+  height: 16px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+/* Designated colors for each status type keywords */
+
+/* Wrath, Bleed */
+.kw-red    { color: #e06060; }
+
+/* Lust, Burn */
+.kw-orange { color: #d4882a; }
+
+/* Sloth, Tremor */
+.kw-yellow { color: #c8a820; }
+
+/* Gluttony */
+.kw-green  { color: #52b068; }
+
+/* Rupture */
+.kw-teal   { color: #30b09a; }
+
+/* Gloom, Charge */
+.kw-cyan   { color: #30aac4; }
+
+/* Pride, Sinking */
+.kw-blue   { color: #5090d0; }
+
+/* Envy */
+.kw-violet { color: #9060c4; }
+
+/* Poise */
+.kw-gray   { color: #c7c7c7; }
+
+/* Slash, Pierce, Blunt */
+.kw-brown  { color: #ffbb8d; }
+
+
+/* Placeholder image with base colors, in case image fail to load */
+.placeholder-img {
+  background-color: var(--color-bg-elevated);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.placeholder-img--rect {
+  aspect-ratio: 9 / 16;
+}
+
+.content-wrapper {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-xl);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+.titleFlair {
+  color: var(--color-accent);
+}
+
+
+/* Media queries */
+@media (min-width: 1440px) {
+  :root {
+    --max-width: 1360px;
+    --font-size-base: 17px;
+    --font-size-xxl: 48px;
+  }
+}
+
+@media (min-width: 1920px) {
+  :root {
+    --max-width: 1600px;
+    --font-size-base: 18px;
+    --font-size-xxl: 56px;
+    --spacing-xl: 56px;
+  }
+}

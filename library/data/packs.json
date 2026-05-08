@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "pack_001",
+    "name": "The Forgotten",
+    "image": "assets/images/packs/pack_001.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Old G Corp. Head Manager"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_002",
+    "name": "The Outcast",
+    "image": "assets/images/packs/pack_002.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Ebony Queen's Apple",
+      "Doomsday Calendar",
+      "Golden Apple"
+    ],
+    "exclusiveGifts": [
+      "gift_218",
+      "gift_219"
+    ]
+  },
+  {
+    "id": "pack_003",
+    "name": "Flat-broke Gamblers",
+    "image": "assets/images/packs/pack_003.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Aida"
+    ],
+    "exclusiveGifts": [
+      "gift_220",
+      "gift_221"
+    ]
+  },
+  {
+    "id": "pack_004",
+    "name": "Automated Factory",
+    "image": "assets/images/packs/pack_004.png",
+    "floors": [
+      1,
+      2
+    ],
+    "boss": [
+      "You Want To Get Beat? Hurtily?",
+      "Clippity-cloppity? Tap Away!"
+    ],
+    "exclusiveGifts": [
+      "gift_222"
+    ]
+  },
+  {
+    "id": "pack_005",
+    "name": "The Unloving",
+    "image": "assets/images/packs/pack_005.png",
+    "floors": [
+      1,
+      2
+    ],
+    "boss": [
+      "Baba Yaga"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_006",
+    "name": "Nagel und Hammer",
+    "image": "assets/images/packs/pack_006.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Guido the Persistent"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_007",
+    "name": "Faith & Erosion",
+    "image": "assets/images/packs/pack_007.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Four-Legged Beast",
+      "Slithering Inquisitor"
+    ],
+    "exclusiveGifts": [
+      "gift_224",
+      "gift_225"
+    ]
+  },
+  {
+    "id": "pack_008",
+    "name": "The Unconfronting ",
+    "image": "assets/images/packs/pack_008.png",
+    "floors": [
+      2,
+      3
+    ],
+    "boss": [
+      "Kromer"
+    ],
+    "exclusiveGifts": [
+      "gift_226"
+    ]
+  },
+  {
+    "id": "pack_009",
+    "name": "Nest, Workshop, and Technology ",
+    "image": "assets/images/packs/pack_009.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Rosespanner Workshop Rep Niko",
+      "Lobotomy E.G.O::Red Sheet - Marile"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_010",
+    "name": "Falling Flowers ",
+    "image": "assets/images/packs/pack_010.png",
+    "floors": [
+      2,
+      3
+    ],
+    "boss": [
+      "So That No One Will Cry",
+      "Drifting Fox",
+      "Dongbaek E.G.O::Spicebush"
+    ],
+    "exclusiveGifts": [
+      "gift_228",
+      "gift_229"
+    ]
+  },
+  {
+    "id": "pack_011",
+    "name": "Tearful Things ",
+    "image": "assets/images/packs/pack_011.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Fairy Gentleman",
+      "Shock Centipede",
+      "Brazen Bull - Tearful"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_012",
+    "name": "The Unchanging ",
+    "image": "assets/images/packs/pack_012.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "(Dongrang",
+      "Who Denies All)",
+      "Effloresced E.G.O::Farmwatch"
+    ],
+    "exclusiveGifts": [
+      "gift_230"
+    ]
+  },
+  {
+    "id": "pack_013",
+    "name": "Lake World ",
+    "image": "assets/images/packs/pack_013.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Twinhook Pirates First Mate Smee"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_014",
+    "name": "Crawling Abyss ",
+    "image": "assets/images/packs/pack_014.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Ambling Pearl",
+      "Skin Prophet",
+      "Dream-Devouring Siltcurrent"
+    ],
+    "exclusiveGifts": [
+      "gift_233",
+      "gift_234"
+    ]
+  },
+  {
+    "id": "pack_015",
+    "name": "The Evil Defining ",
+    "image": "assets/images/packs/pack_015.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Ahab",
+      "Effloresced E.G.O::GasHarpoon"
+    ],
+    "exclusiveGifts": [
+      "gift_235"
+    ]
+  },
+  {
+    "id": "pack_016",
+    "name": "Dregs of the Manor ",
+    "image": "assets/images/packs/pack_016.png",
+    "floors": [
+      1
+    ],
+    "boss": [
+      "Josephine",
+      "Hindley",
+      "Dead Rabbits Boss"
+    ],
+    "exclusiveGifts": [
+      "gift_238",
+      "gift_239"
+    ]
+  },
+  {
+    "id": "pack_017",
+    "name": "A Certain World ",
+    "image": "assets/images/packs/pack_017.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Nelly"
+    ],
+    "exclusiveGifts": [
+      "gift_240"
+    ]
+  },
+  {
+    "id": "pack_018",
+    "name": "The Heartbreaking ",
+    "image": "assets/images/packs/pack_018.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Heathcliff?",
+      "Erlking Heathcliff"
+    ],
+    "exclusiveGifts": [
+      "gift_242",
+      "gift_243"
+    ]
+  },
+  {
+    "id": "pack_019",
+    "name": "La Manchaland Re-opening ",
+    "image": "assets/images/packs/pack_019.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "The Barber",
+      "Dulcinea"
+    ],
+    "exclusiveGifts": [
+      "gift_245",
+      "gift_246",
+      "gift_247",
+      "gift_248",
+      "gift_357"
+    ]
+  },
+  {
+    "id": "pack_020",
+    "name": "The Infinite Procession ",
+    "image": "assets/images/packs/pack_020.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "The Barber",
+      "Dulcinea",
+      "The Priest"
+    ],
+    "exclusiveGifts": [
+      "gift_245",
+      "gift_246",
+      "gift_247",
+      "gift_248",
+      "gift_357"
+    ]
+  },
+  {
+    "id": "pack_021",
+    "name": "The Dream Ending ",
+    "image": "assets/images/packs/pack_021.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Sancho"
+    ],
+    "exclusiveGifts": [
+      "gift_245",
+      "gift_246",
+      "gift_247",
+      "gift_248",
+      "gift_357"
+    ]
+  },
+  {
+    "id": "pack_022",
+    "name": "Four Houses and Greed ",
+    "image": "assets/images/packs/pack_022.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Shi Huazhen",
+      "Shi Sijing",
+      "Shi Yihua",
+      "Night Drifter",
+      "Xue",
+      "Wang",
+      "Jia Huan",
+      "Gubo"
+    ],
+    "exclusiveGifts": [
+      "gift_361",
+      "gift_362"
+    ]
+  },
+  {
+    "id": "pack_023",
+    "name": "The Surrendered Witnessing ",
+    "image": "assets/images/packs/pack_023.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Jia Qiu",
+      "Jia Miu"
+    ],
+    "exclusiveGifts": [
+      "gift_363",
+      "gift_364"
+    ]
+  },
+  {
+    "id": "pack_024",
+    "name": "Charm, Wander, Doubt ",
+    "image": "assets/images/packs/pack_024.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Faelantern",
+      "Wayward Passenger",
+      "Shock Centipede",
+      "Ebony Queen's Apple"
+    ],
+    "exclusiveGifts": [
+      "gift_256",
+      "gift_257"
+    ]
+  },
+  {
+    "id": "pack_025",
+    "name": "Textbook ",
+    "image": "assets/images/packs/pack_025.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Ardor Blossom Moth",
+      "The Thumb Apprentice - Lucio"
+    ],
+    "exclusiveGifts": [
+      "gift_250",
+      "gift_251"
+    ]
+  },
+  {
+    "id": "pack_026",
+    "name": "Blade and Artwork ",
+    "image": "assets/images/packs/pack_026.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Ebony Queen's Apple",
+      "The Pinky Apprentice - ???",
+      "The Ring Apprentice - Albina"
+    ],
+    "exclusiveGifts": [
+      "gift_258",
+      "gift_259",
+      "gift_261",
+      "gift_262"
+    ]
+  },
+  {
+    "id": "pack_027",
+    "name": "The Unsevering ",
+    "image": "assets/images/packs/pack_027.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "The Index Apprentice - ???"
+    ],
+    "exclusiveGifts": [
+      "gift_253",
+      "gift_254",
+      "gift_255"
+    ]
+  },
+  {
+    "id": "pack_028",
+    "name": "Hell's Chicken ",
+    "image": "assets/images/packs/pack_028.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Papa Bongy"
+    ],
+    "exclusiveGifts": [
+      "gift_263",
+      "gift_264",
+      "gift_265",
+      "gift_266",
+      "gift_267"
+    ]
+  },
+  {
+    "id": "pack_029",
+    "name": "S.E.A. ",
+    "image": "assets/images/packs/pack_029.png",
+    "floors": [
+      2,
+      3
+    ],
+    "boss": [
+      "King Trash Crab"
+    ],
+    "exclusiveGifts": [
+      "gift_268",
+      "gift_269",
+      "gift_270"
+    ]
+  },
+  {
+    "id": "pack_030",
+    "name": "Miracle in District 20 ",
+    "image": "assets/images/packs/pack_030.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Manager Gnome"
+    ],
+    "exclusiveGifts": [
+      "gift_271",
+      "gift_272",
+      "gift_273"
+    ]
+  },
+  {
+    "id": "pack_031",
+    "name": "Yield My Flesh to Claim Their Bones ",
+    "image": "assets/images/packs/pack_031.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Distorted Bamboo-hatted Kim"
+    ],
+    "exclusiveGifts": [
+      "gift_274",
+      "gift_275",
+      "gift_276",
+      "gift_277",
+      "gift_278",
+      "gift_281",
+      "gift_282"
+    ]
+  },
+  {
+    "id": "pack_032",
+    "name": "Timekilling Time ",
+    "image": "assets/images/packs/pack_032.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "The Time Ripper"
+    ],
+    "exclusiveGifts": [
+      "gift_283",
+      "gift_284",
+      "gift_285",
+      "gift_286",
+      "gift_287",
+      "gift_288",
+      "gift_289"
+    ]
+  },
+  {
+    "id": "pack_033",
+    "name": "Murder on the Warp Express ",
+    "image": "assets/images/packs/pack_033.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Cassetti"
+    ],
+    "exclusiveGifts": [
+      "gift_294",
+      "gift_295",
+      "gift_296",
+      "gift_297",
+      "gift_298",
+      "gift_299",
+      "gift_300",
+      "gift_301"
+    ]
+  },
+  {
+    "id": "pack_034",
+    "name": "The Noon of Violet ",
+    "image": "assets/images/packs/pack_034.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Grant Us Love"
+    ],
+    "exclusiveGifts": [
+      "gift_306",
+      "gift_307",
+      "gift_308",
+      "gift_309",
+      "gift_310",
+      "gift_311",
+      "gift_312"
+    ]
+  },
+  {
+    "id": "pack_035",
+    "name": "Line 1",
+    "image": "assets/images/packs/pack_035.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Blubbering Toad",
+      "kqe-1j-23",
+      "My Form Empties"
+    ],
+    "exclusiveGifts": [
+      "gift_313",
+      "gift_314"
+    ]
+  },
+  {
+    "id": "pack_036",
+    "name": "Line 2",
+    "image": "assets/images/packs/pack_036.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Sign of Roses"
+    ],
+    "exclusiveGifts": [
+      "gift_315",
+      "gift_316"
+    ]
+  },
+  {
+    "id": "pack_037",
+    "name": "Line 3",
+    "image": "assets/images/packs/pack_037.png",
+    "floors": [
+      5,
+      11
+    ],
+    "boss": [
+      "Blinded Pequod Town Villager",
+      "Gagged Pequod Town Villager",
+      "Pallid and Blue Mermaid"
+    ],
+    "exclusiveGifts": [
+      "gift_317"
+    ]
+  },
+  {
+    "id": "pack_038",
+    "name": "Line 4 - Section #3",
+    "image": "assets/images/packs/pack_038.png",
+    "floors": [
+      5,
+      11
+    ],
+    "boss": [
+      "Refracted Peccatulum Invidiae - W Corp Don Quixote",
+      "Refracted Dreaming Electric Sheep"
+    ],
+    "exclusiveGifts": [
+      "gift_319"
+    ]
+  },
+  {
+    "id": "pack_039",
+    "name": "Line 4 - Section #4",
+    "image": "assets/images/packs/pack_039.png",
+    "floors": [
+      5,
+      11
+    ],
+    "boss": [
+      "Refracted Peccatulum Invidiae - Butler Ryoshu",
+      "The King in Binds"
+    ],
+    "exclusiveGifts": [
+      "gift_319"
+    ]
+  },
+  {
+    "id": "pack_040",
+    "name": "Miracle in District 20 BokGak ",
+    "image": "assets/images/packs/pack_040.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Santata"
+    ],
+    "exclusiveGifts": [
+      "gift_271",
+      "gift_272",
+      "gift_273",
+      "gift_321",
+      "gift_322",
+      "gift_324",
+      "gift_325"
+    ]
+  },
+  {
+    "id": "pack_041",
+    "name": "Full-Stopped by a Bullet ",
+    "image": "assets/images/packs/pack_041.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Aggressive Gear Fanatic"
+    ],
+    "exclusiveGifts": [
+      "gift_328",
+      "gift_329",
+      "gift_330",
+      "gift_331",
+      "gift_332",
+      "gift_333"
+    ]
+  },
+  {
+    "id": "pack_042",
+    "name": "LCB Regular Check-up ",
+    "image": "assets/images/packs/pack_042.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Distorted Hohenheim"
+    ],
+    "exclusiveGifts": [
+      "gift_334",
+      "gift_335",
+      "gift_336",
+      "gift_337",
+      "gift_338",
+      "gift_339",
+      "gift_340",
+      "gift_341"
+    ]
+  },
+  {
+    "id": "pack_043",
+    "name": "Yield My Flesh to Claim Their Bones BokGak ",
+    "image": "assets/images/packs/pack_043.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Distorted Bamboo-hatted Kim"
+    ],
+    "exclusiveGifts": [
+      "gift_274",
+      "gift_275",
+      "gift_276",
+      "gift_277",
+      "gift_278",
+      "gift_281",
+      "gift_282",
+      "gift_344",
+      "gift_343",
+      "gift_347"
+    ]
+  },
+  {
+    "id": "pack_044",
+    "name": "Nocturnal Sweeping ",
+    "image": "assets/images/packs/pack_044.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "The City's Sweepers"
+    ],
+    "exclusiveGifts": [
+      "gift_350",
+      "gift_351",
+      "gift_348",
+      "gift_352",
+      "gift_349",
+      "gift_356"
+    ]
+  },
+  {
+    "id": "pack_045",
+    "name": "Line 5 ",
+    "image": "assets/images/packs/pack_045.png",
+    "floors": [
+      5,
+      11
+    ],
+    "boss": [
+      "Hurting Teddy Bear",
+      "Rose Hunter",
+      "Peccatulum Pigritiae",
+      "Peccatulum Morositatis",
+      "Peccatulum Irae",
+      "Sleeping Bag of a Bygone Day",
+      "Refracted Peccatulum Invidiae - Full-Stop Hong Lu",
+      "Refracted Peccatulum Invidiae - Kurokumo Ishmael",
+      "Der Fluchschutze",
+      "Dulcinea",
+      "Sancho",
+      "The Priest",
+      "The Barber",
+      "Four-hundred Roses"
+    ],
+    "exclusiveGifts": [
+      "gift_358",
+      "gift_359",
+      "gift_360"
+    ]
+  },
+  {
+    "id": "pack_046",
+    "name": "Hatred and Despair ",
+    "image": "assets/images/packs/pack_046.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "The Knight of Despair"
+    ],
+    "exclusiveGifts": [
+      "gift_365",
+      "gift_366",
+      "gift_367",
+      "gift_368",
+      "gift_370",
+      "gift_371"
+    ]
+  },
+  {
+    "id": "pack_047",
+    "name": "Timekilling Time BokGak ",
+    "image": "assets/images/packs/pack_047.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "The Time Ripper"
+    ],
+    "exclusiveGifts": [
+      "gift_283",
+      "gift_284",
+      "gift_285",
+      "gift_286",
+      "gift_287",
+      "gift_288",
+      "gift_289",
+      "gift_372",
+      "gift_373",
+      "gift_374",
+      "gift_375"
+    ]
+  },
+  {
+    "id": "pack_048",
+    "name": "Spring Cultivation ",
+    "image": "assets/images/packs/pack_048.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Wei"
+    ],
+    "exclusiveGifts": [
+      "gift_377",
+      "gift_376",
+      "gift_378",
+      "gift_380",
+      "gift_381",
+      "gift_382",
+      "gift_379"
+    ]
+  },
+  {
+    "id": "pack_049",
+    "name": "Murder on the Warp Express BokGak ",
+    "image": "assets/images/packs/pack_049.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Cassetti"
+    ],
+    "exclusiveGifts": [
+      "gift_385",
+      "gift_387",
+      "gift_386",
+      "gift_294",
+      "gift_295",
+      "gift_296",
+      "gift_297",
+      "gift_298",
+      "gift_299",
+      "gift_300",
+      "gift_301"
+    ]
+  },
+  {
+    "id": "pack_050",
+    "name": "The Dusk of Amber ",
+    "image": "assets/images/packs/pack_050.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "BunBun"
+    ],
+    "exclusiveGifts": [
+      "gift_389",
+      "gift_390",
+      "gift_392",
+      "gift_393",
+      "gift_394",
+      "gift_396",
+      "gift_397"
+    ]
+  },
+  {
+    "id": "pack_051",
+    "name": "LCB Regular Check-up BokGak ",
+    "image": "assets/images/packs/pack_051.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Distorted Hohenheim"
+    ],
+    "exclusiveGifts": [
+      "gift_334",
+      "gift_335",
+      "gift_336",
+      "gift_337",
+      "gift_338",
+      "gift_339",
+      "gift_340",
+      "gift_341",
+      "gift_401"
+    ]
+  },
+  {
+    "id": "pack_052",
+    "name": "Slicers & Dicers ",
+    "image": "assets/images/packs/pack_052.png",
+    "floors": [
+      4
+    ],
+    "boss": [
+      "Wayward Passenger",
+      "Distorted Bamboo-hatted Kim",
+      "The Barber"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_053",
+    "name": "To be Cleaved ",
+    "image": "assets/images/packs/pack_053.png",
+    "floors": [
+      1,
+      2
+    ],
+    "boss": [
+      "Fairy-Long-Legs",
+      "Faelantern",
+      "Alleyway Watchdog"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_054",
+    "name": "Piercers & Penetrators ",
+    "image": "assets/images/packs/pack_054.png",
+    "floors": [
+      4
+    ],
+    "boss": [
+      "King Trash Crab",
+      "Drenched Gossypium"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_055",
+    "name": "To be Pierced ",
+    "image": "assets/images/packs/pack_055.png",
+    "floors": [
+      1,
+      2
+    ],
+    "boss": [
+      "King Trash Crab",
+      "Drifting Fox",
+      "Fairy Gentleman"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_056",
+    "name": "Crushers & Breakers ",
+    "image": "assets/images/packs/pack_056.png",
+    "floors": [
+      4
+    ],
+    "boss": [
+      "Brazen Bull - Tearful",
+      "Blubbering Toad"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_057",
+    "name": "To be Crushed ",
+    "image": "assets/images/packs/pack_057.png",
+    "floors": [
+      1,
+      2
+    ],
+    "boss": [
+      "So That No One Will Cry",
+      "Steam Transport Machine",
+      "You Want To Get Beat? Hurtily?"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_058",
+    "name": "Repressed Wrath ",
+    "image": "assets/images/packs/pack_058.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Skin Prophet",
+      "Brazen Bull - Tearful",
+      "Ardor Blossom Moth"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_059",
+    "name": "Unbound Wrath ",
+    "image": "assets/images/packs/pack_059.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Skin Prophet",
+      "Brazen Bull - Tearful",
+      "Ardor Blossom Moth"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_060",
+    "name": "Emotional Repression ",
+    "image": "assets/images/packs/pack_060.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "So That No One Will Cry",
+      "Ambling Pearl",
+      "Santata"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_061",
+    "name": "Addicting Lust ",
+    "image": "assets/images/packs/pack_061.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "So That No One Will Cry",
+      "Fairy-Long-Legs"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_062",
+    "name": "Tangling Lust ",
+    "image": "assets/images/packs/pack_062.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Fairy-Long-Legs",
+      "Cassetti",
+      "The Barber"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_063",
+    "name": "Emotional Seduction ",
+    "image": "assets/images/packs/pack_063.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Papa Bongy"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_064",
+    "name": "Treadwheel Sloth ",
+    "image": "assets/images/packs/pack_064.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Dream-Devouring Siltcurrent",
+      "Drifting Fox"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_065",
+    "name": "Inert Sloth ",
+    "image": "assets/images/packs/pack_065.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Dongbaek E.G.O::Spicebush",
+      "Dream-Devouring Siltcurrent",
+      "The Time Ripper"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_066",
+    "name": "Emotional Indolence ",
+    "image": "assets/images/packs/pack_066.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Headless Ichthys",
+      "Steam Transport Machine",
+      "Golden Apple"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_067",
+    "name": "Devoured Gluttony ",
+    "image": "assets/images/packs/pack_067.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Ambling Pearl",
+      "Faelantern",
+      "Fairy Gentleman"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_068",
+    "name": "Excessive Gluttony ",
+    "image": "assets/images/packs/pack_068.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Drenched Gossypium",
+      "Rose Hunter",
+      "Effloresced E.G.O::Farmwatch"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_069",
+    "name": "Emotional Craving ",
+    "image": "assets/images/packs/pack_069.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Fairy-Long-Legs",
+      "Wayward Passenger"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_070",
+    "name": "Degraded Gloom ",
+    "image": "assets/images/packs/pack_070.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Blubbering Toad",
+      "Headless Ichthys"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_071",
+    "name": "Sunk Gloom ",
+    "image": "assets/images/packs/pack_071.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Blubbering Toad",
+      "Headless Ichthys",
+      "Erlking Heathcliff"
+    ],
+    "exclusiveGifts": [
+      "gift_208",
+      "gift_211"
+    ]
+  },
+  {
+    "id": "pack_072",
+    "name": "Emotional Flood ",
+    "image": "assets/images/packs/pack_072.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "kqe-1j-23",
+      "Dream-Devouring Siltcurrent"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_073",
+    "name": "Vain Pride ",
+    "image": "assets/images/packs/pack_073.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "You Want To Get Beat? Hurtily?",
+      "Distorted Bamboo-hatted Kim"
+    ],
+    "exclusiveGifts": [
+      "gift_209"
+    ]
+  },
+  {
+    "id": "pack_074",
+    "name": "Tyrannical Pride ",
+    "image": "assets/images/packs/pack_074.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Effloresced E.G.O::GasHarpoon",
+      "Distorted Bamboo-hatted Kim"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_075",
+    "name": "Emotional Subservience ",
+    "image": "assets/images/packs/pack_075.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Fairy Gentleman",
+      "Drenched Gossypium",
+      "Faelantern"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_076",
+    "name": "Insignificant Envy ",
+    "image": "assets/images/packs/pack_076.png",
+    "floors": [
+      3,
+      4
+    ],
+    "boss": [
+      "Wayward Passenger",
+      "kqe-1j-23",
+      "Shock Centipede"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_077",
+    "name": "Pitiful Envy ",
+    "image": "assets/images/packs/pack_077.png",
+    "floors": [
+      5
+    ],
+    "boss": [
+      "Wayward Passenger",
+      "kqe-1j-23",
+      "Heathcliff?"
+    ],
+    "exclusiveGifts": [
+      "gift_208"
+    ]
+  },
+  {
+    "id": "pack_078",
+    "name": "Emotional Judgment ",
+    "image": "assets/images/packs/pack_078.png",
+    "floors": [
+      2
+    ],
+    "boss": [
+      "Blubbering Toad",
+      "Hurting Teddy Bear"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_079",
+    "name": "Burning Haze ",
+    "image": "assets/images/packs/pack_079.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "Brazen Bull - Tearful",
+      "Skin Prophet"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_080",
+    "name": "Season of the Flame ",
+    "image": "assets/images/packs/pack_080.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Brazen Bull - Tearful",
+      "Skin Prophet",
+      "Ardor Blossom Moth"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_081",
+    "name": "Trickled Sanguine Blood ",
+    "image": "assets/images/packs/pack_081.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "Headless Ichthys",
+      "Drenched Gossypium",
+      "Hurting Teddy Bear"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_082",
+    "name": "Mountain of Corpses, Sea of Blood ",
+    "image": "assets/images/packs/pack_082.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Spiral of Contempt",
+      "Erlking Heathcliff",
+      "Cassetti"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_083",
+    "name": "Dizzying Waves ",
+    "image": "assets/images/packs/pack_083.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "Papa Bongy"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_084",
+    "name": "Abnormal Seismic Zone ",
+    "image": "assets/images/packs/pack_084.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Fairy Gentleman"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_085",
+    "name": "Crushing External Force ",
+    "image": "assets/images/packs/pack_085.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "So That No One Will Cry",
+      "Faelantern",
+      "King Trash Crab"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_086",
+    "name": "Unrelenting Might ",
+    "image": "assets/images/packs/pack_086.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Dongbaek E.G.O::Spicebush",
+      "(Dongrang",
+      "Who Denies All)",
+      "Effloresced E.G.O::Farmwatch",
+      "Rose Hunter"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_087",
+    "name": "Sinking Pang ",
+    "image": "assets/images/packs/pack_087.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "Drifting Fox",
+      "Blubbering Toad"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_088",
+    "name": "Sinking Deluge ",
+    "image": "assets/images/packs/pack_088.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Dream-Devouring Siltcurrent",
+      "Dongbaek E.G.O::Spicebush",
+      "Portrait of a Certain Day"
+    ],
+    "exclusiveGifts": [
+      "gift_211"
+    ]
+  },
+  {
+    "id": "pack_089",
+    "name": "Deep Sigh ",
+    "image": "assets/images/packs/pack_089.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "Steam Transport Machine",
+      "Santata"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_090",
+    "name": "Poised Breathing ",
+    "image": "assets/images/packs/pack_090.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Dream-Devouring Siltcurrent",
+      "Distorted Bamboo-hatted Kim",
+      "Ahab",
+      "Nelly"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_091",
+    "name": "Rising Power Supply ",
+    "image": "assets/images/packs/pack_091.png",
+    "floors": [
+      3
+    ],
+    "boss": [
+      "kqe-1j-23",
+      "Shock Centipede"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_092",
+    "name": "Thunder and Lightning ",
+    "image": "assets/images/packs/pack_092.png",
+    "floors": [
+      4,
+      5
+    ],
+    "boss": [
+      "Shock Centipede",
+      "Wayward Passenger",
+      "Dreaming Electric Sheep"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_093",
+    "name": "N Corp. New League of Nine Littérateurs ",
+    "image": "assets/images/packs/pack_093.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Ahab",
+      "Nelly",
+      "Jia Huan",
+      "Gubo"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_094",
+    "name": "Efflorescing Greenery ",
+    "image": "assets/images/packs/pack_094.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Drenched Gossypium",
+      "Rose Hunter",
+      "Effloresced E.G.O::Spicebush"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_095",
+    "name": "Line 3 - Terminus ",
+    "image": "assets/images/packs/pack_095.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Ambling Pearl",
+      "Ardor Blossom Moth",
+      "Spiral of Contempt"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_096",
+    "name": "Bridle of Infinity ",
+    "image": "assets/images/packs/pack_096.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "You Want To Get Beat? Hurtily?",
+      "Shock Centipede",
+      "My Form Empties"
+    ],
+    "exclusiveGifts": [
+      "gift_209"
+    ]
+  },
+  {
+    "id": "pack_097",
+    "name": "S.E.A. C.R ",
+    "image": "assets/images/packs/pack_097.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "King Trash Crab"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_098",
+    "name": "Impenetrable Path",
+    "image": "assets/images/packs/pack_098.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Josephine",
+      "Hindly",
+      "Linton",
+      "The Reaved Lamenter",
+      "Peccatulum Irae"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_099",
+    "name": "Who Couldn't be Bloodfiends ",
+    "image": "assets/images/packs/pack_099.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Bloodbag Passenger",
+      "Bloodfiend"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_100",
+    "name": "A Beautiful Voice ",
+    "image": "assets/images/packs/pack_100.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Kromer",
+      "(Dongrang",
+      "Who Denies All)",
+      "(Heathcliff",
+      "The Heartbroken)"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_101",
+    "name": "The Dawn of Green ",
+    "image": "assets/images/packs/pack_101.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Dawn of Green - Doubt"
+    ],
+    "exclusiveGifts": []
+  },
+  {
+    "id": "pack_102",
+    "name": "Into a Certain Library's Book ",
+    "image": "assets/images/packs/pack_102.png",
+    "floors": [
+      11
+    ],
+    "boss": [
+      "Fairy Queen"
+    ],
+    "exclusiveGifts": []
+  }
+]

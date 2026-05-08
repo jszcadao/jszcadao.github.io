@@ -1,0 +1,6976 @@
+[
+  {
+    "id": "gift_001",
+    "name": "Hellterfly’s Dream",
+    "icon": "assets/icons/gifts/gift_001.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_002",
+    "name": "Perversion",
+    "icon": "assets/icons/gifts/gift_002.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_003",
+    "name": "Ashes to Ashes",
+    "icon": "assets/icons/gifts/gift_003.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_088"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_004",
+    "name": "Phlebotomy Pack",
+    "icon": "assets/icons/gifts/gift_004.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_005",
+    "name": "Wound Clerid",
+    "icon": "assets/icons/gifts/gift_005.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_006",
+    "name": "Coffee and Cranes",
+    "icon": "assets/icons/gifts/gift_006.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_007",
+    "name": "Eclipse of Scarlet Moths",
+    "icon": "assets/icons/gifts/gift_007.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_008",
+    "name": "Grimy Iron Stake",
+    "icon": "assets/icons/gifts/gift_008.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_161"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_009",
+    "name": "Fiery Down",
+    "icon": "assets/icons/gifts/gift_009.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_010",
+    "name": "Bloody Gadget",
+    "icon": "assets/icons/gifts/gift_010.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_011",
+    "name": "Sunshower",
+    "icon": "assets/icons/gifts/gift_011.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Skill Power"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_012",
+    "name": "Today’s Expression",
+    "icon": "assets/icons/gifts/gift_012.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Skill Power"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_013",
+    "name": "Talisman Bundle",
+    "icon": "assets/icons/gifts/gift_013.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_094"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_014",
+    "name": "Rusty Commemorative Coin",
+    "icon": "assets/icons/gifts/gift_014.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Skill Power"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_015",
+    "name": "Blood, Sweat, and Tears",
+    "icon": "assets/icons/gifts/gift_015.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_016",
+    "name": "Green Spirit",
+    "icon": "assets/icons/gifts/gift_016.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_017",
+    "name": "Lithograph",
+    "icon": "assets/icons/gifts/gift_017.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_018",
+    "name": "Crown of Roses",
+    "icon": "assets/icons/gifts/gift_018.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_019",
+    "name": "Sticky Muck",
+    "icon": "assets/icons/gifts/gift_019.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_020",
+    "name": "White Gossypium",
+    "icon": "assets/icons/gifts/gift_020.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Offense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_021",
+    "name": "Blue Zippo Lighter",
+    "icon": "assets/icons/gifts/gift_021.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_022",
+    "name": "Phantom Pain",
+    "icon": "assets/icons/gifts/gift_022.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_023",
+    "name": "Thunderbranch",
+    "icon": "assets/icons/gifts/gift_023.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_170"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_024",
+    "name": "Melted Eyeball",
+    "icon": "assets/icons/gifts/gift_024.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_025",
+    "name": "Grey Coat",
+    "icon": "assets/icons/gifts/gift_025.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_026",
+    "name": "Late-bloomer's Tattoo",
+    "icon": "assets/icons/gifts/gift_026.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Defense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_027",
+    "name": "Lowest Star",
+    "icon": "assets/icons/gifts/gift_027.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_252"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_028",
+    "name": "Prejudice",
+    "icon": "assets/icons/gifts/gift_028.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_029",
+    "name": "Little and To-be-Naughty Plushie",
+    "icon": "assets/icons/gifts/gift_029.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_030",
+    "name": "Gathering Skulls",
+    "icon": "assets/icons/gifts/gift_030.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Skill Power"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_031",
+    "name": "Nixie Divergence",
+    "icon": "assets/icons/gifts/gift_031.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_092"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_032",
+    "name": "Dreaming Electric Sheep",
+    "icon": "assets/icons/gifts/gift_032.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Skill Power",
+      "Offense Up",
+      "Defense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_033",
+    "name": "Standard-duty Battery",
+    "icon": "assets/icons/gifts/gift_033.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_094"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_034",
+    "name": "Pinpoint Logic Circuit",
+    "icon": "assets/icons/gifts/gift_034.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_035",
+    "name": "Voodoo Doll",
+    "icon": "assets/icons/gifts/gift_035.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_036",
+    "name": "Carmilla",
+    "icon": "assets/icons/gifts/gift_036.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_037",
+    "name": "Child within a Flask",
+    "icon": "assets/icons/gifts/gift_037.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_038",
+    "name": "Illusory Hunt",
+    "icon": "assets/icons/gifts/gift_038.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_039",
+    "name": "Homeward",
+    "icon": "assets/icons/gifts/gift_039.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_260"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_040",
+    "name": "Tomorrow’s Fortune",
+    "icon": "assets/icons/gifts/gift_040.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_041",
+    "name": "Red Order",
+    "icon": "assets/icons/gifts/gift_041.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_042",
+    "name": "Smokes and Wires",
+    "icon": "assets/icons/gifts/gift_042.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_090"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_043",
+    "name": "Employee Card",
+    "icon": "assets/icons/gifts/gift_043.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_044",
+    "name": "Oscillating Bracelet",
+    "icon": "assets/icons/gifts/gift_044.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_045",
+    "name": "Glimpse of Flames",
+    "icon": "assets/icons/gifts/gift_045.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_046",
+    "name": "Cigarette Holder",
+    "icon": "assets/icons/gifts/gift_046.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_047",
+    "name": "Barbed Lasso",
+    "icon": "assets/icons/gifts/gift_047.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_048",
+    "name": "Rusted Cutting Knife",
+    "icon": "assets/icons/gifts/gift_048.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_161"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_049",
+    "name": "Thorny Path",
+    "icon": "assets/icons/gifts/gift_049.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_175"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_050",
+    "name": "Red-stained Gossypium",
+    "icon": "assets/icons/gifts/gift_050.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_051",
+    "name": "Stone Tomb",
+    "icon": "assets/icons/gifts/gift_051.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_052",
+    "name": "Portable Battery Socket",
+    "icon": "assets/icons/gifts/gift_052.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_053",
+    "name": "Dust to Dust",
+    "icon": "assets/icons/gifts/gift_053.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_088"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_054",
+    "name": "Melted Spring",
+    "icon": "assets/icons/gifts/gift_054.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_055",
+    "name": "Downpour",
+    "icon": "assets/icons/gifts/gift_055.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_056",
+    "name": "Four-leaf Clover",
+    "icon": "assets/icons/gifts/gift_056.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_098"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_057",
+    "name": "Nightvision Goggles",
+    "icon": "assets/icons/gifts/gift_057.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_058",
+    "name": "Disk Fragment",
+    "icon": "assets/icons/gifts/gift_058.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_059",
+    "name": "Midwinter Nightmare",
+    "icon": "assets/icons/gifts/gift_059.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_096"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_060",
+    "name": "Thrill",
+    "icon": "assets/icons/gifts/gift_060.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_061",
+    "name": "Skeletal Crumbs",
+    "icon": "assets/icons/gifts/gift_061.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_062",
+    "name": "Curriculum Vitae",
+    "icon": "assets/icons/gifts/gift_062.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_183"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_063",
+    "name": "Pendant of Nostalgia",
+    "icon": "assets/icons/gifts/gift_063.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_178"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_064",
+    "name": "Broken Revolver",
+    "icon": "assets/icons/gifts/gift_064.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_170"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_065",
+    "name": "Artistic Sense",
+    "icon": "assets/icons/gifts/gift_065.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_066",
+    "name": "Nebulizer",
+    "icon": "assets/icons/gifts/gift_066.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_236"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_067",
+    "name": "Special Contract",
+    "icon": "assets/icons/gifts/gift_067.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_068",
+    "name": "Grand Welcome",
+    "icon": "assets/icons/gifts/gift_068.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_069",
+    "name": "Wrist Guards",
+    "icon": "assets/icons/gifts/gift_069.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_100"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_070",
+    "name": "Clear Mirror, Calm Water",
+    "icon": "assets/icons/gifts/gift_070.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_071",
+    "name": "Charred Disk",
+    "icon": "assets/icons/gifts/gift_071.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Offense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_157"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_072",
+    "name": "Lightning Rod",
+    "icon": "assets/icons/gifts/gift_072.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_183"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_073",
+    "name": "Endorphin Kit",
+    "icon": "assets/icons/gifts/gift_073.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_179"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_074",
+    "name": "Headless Portrait",
+    "icon": "assets/icons/gifts/gift_074.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_096",
+      "gift_260"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_075",
+    "name": "Charge-type Gloves",
+    "icon": "assets/icons/gifts/gift_075.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_076",
+    "name": "First-aid Kit ",
+    "icon": "assets/icons/gifts/gift_076.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_077",
+    "name": "Painkiller",
+    "icon": "assets/icons/gifts/gift_077.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_078",
+    "name": "Voracious Hammer",
+    "icon": "assets/icons/gifts/gift_078.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_079",
+    "name": "Golden Urn",
+    "icon": "assets/icons/gifts/gift_079.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_080",
+    "name": "Milepost of Survival",
+    "icon": "assets/icons/gifts/gift_080.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_081",
+    "name": "Faith",
+    "icon": "assets/icons/gifts/gift_081.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_082",
+    "name": "Piece of Relationship",
+    "icon": "assets/icons/gifts/gift_082.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_083",
+    "name": "Lunar Memory",
+    "icon": "assets/icons/gifts/gift_083.png",
+    "rarity": 5,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_084",
+    "name": "Ancient Effigy",
+    "icon": "assets/icons/gifts/gift_084.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_085",
+    "name": "Non-disclosure Agreement",
+    "icon": "assets/icons/gifts/gift_085.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_086",
+    "name": "Reverberation",
+    "icon": "assets/icons/gifts/gift_086.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_395"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_087",
+    "name": "Burning Intellect",
+    "icon": "assets/icons/gifts/gift_087.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_157"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_088",
+    "name": "Soothe the Dead",
+    "icon": "assets/icons/gifts/gift_088.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_003",
+      "gift_053",
+      "gift_156"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_089",
+    "name": "Rusted Muzzle",
+    "icon": "assets/icons/gifts/gift_089.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_090"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_090",
+    "name": "Bloody Mist",
+    "icon": "assets/icons/gifts/gift_090.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_042",
+      "gift_089",
+      "gift_160"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_091",
+    "name": "Bell of Truth",
+    "icon": "assets/icons/gifts/gift_091.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_092"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_092",
+    "name": "Coupled Oscillation",
+    "icon": "assets/icons/gifts/gift_092.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_031",
+      "gift_091"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_093",
+    "name": "Fluorescent Lamp",
+    "icon": "assets/icons/gifts/gift_093.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_094",
+    "name": "Enrapturing Trance",
+    "icon": "assets/icons/gifts/gift_094.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_013",
+      "gift_033",
+      "gift_168"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_095",
+    "name": "Broken Compass",
+    "icon": "assets/icons/gifts/gift_095.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_096",
+    "name": "Black Sheet Music",
+    "icon": "assets/icons/gifts/gift_096.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_059",
+      "gift_074",
+      "gift_173"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_097",
+    "name": "Ornamental Horseshoe",
+    "icon": "assets/icons/gifts/gift_097.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_098"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_098",
+    "name": "Lucky Pouch",
+    "icon": "assets/icons/gifts/gift_098.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_056",
+      "gift_097",
+      "gift_178"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_099",
+    "name": "Material Interference Force Field",
+    "icon": "assets/icons/gifts/gift_099.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_100"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_100",
+    "name": "T-1 Perpetual Motion Machine",
+    "icon": "assets/icons/gifts/gift_100.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_069",
+      "gift_099",
+      "gift_181"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_101",
+    "name": "Melted Paraffin",
+    "icon": "assets/icons/gifts/gift_101.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_156"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_102",
+    "name": "Polarization",
+    "icon": "assets/icons/gifts/gift_102.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_252"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_103",
+    "name": "Pain of Stifled Rage",
+    "icon": "assets/icons/gifts/gift_103.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_104",
+    "name": "Ardent Flower",
+    "icon": "assets/icons/gifts/gift_104.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_105",
+    "name": "Arrested Hymn",
+    "icon": "assets/icons/gifts/gift_105.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_160"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_106",
+    "name": "Tangled Bundle",
+    "icon": "assets/icons/gifts/gift_106.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_107",
+    "name": "Awe",
+    "icon": "assets/icons/gifts/gift_107.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_108",
+    "name": "Respite",
+    "icon": "assets/icons/gifts/gift_108.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_109",
+    "name": "Fragment of Allurement",
+    "icon": "assets/icons/gifts/gift_109.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_110",
+    "name": "Bio-venom Vial",
+    "icon": "assets/icons/gifts/gift_110.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_111",
+    "name": "Venomous Skin",
+    "icon": "assets/icons/gifts/gift_111.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_166"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_112",
+    "name": "Sour Liquor Aroma",
+    "icon": "assets/icons/gifts/gift_112.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_113",
+    "name": "Mirror Tactile Synaesthesia",
+    "icon": "assets/icons/gifts/gift_113.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_241"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_114",
+    "name": "Clockwork Spring",
+    "icon": "assets/icons/gifts/gift_114.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_166"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_115",
+    "name": "Fragment of Inertia",
+    "icon": "assets/icons/gifts/gift_115.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_116",
+    "name": "Smoking Gunpowder",
+    "icon": "assets/icons/gifts/gift_116.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_117",
+    "name": "Bone Stake",
+    "icon": "assets/icons/gifts/gift_117.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_169"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_118",
+    "name": "Ragged Umbrella",
+    "icon": "assets/icons/gifts/gift_118.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_231",
+      "gift_232"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_119",
+    "name": "Deathseeker",
+    "icon": "assets/icons/gifts/gift_119.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_120",
+    "name": "Fragment of Desire",
+    "icon": "assets/icons/gifts/gift_120.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_121",
+    "name": "Eldtree Snare",
+    "icon": "assets/icons/gifts/gift_121.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_122",
+    "name": "Rags",
+    "icon": "assets/icons/gifts/gift_122.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_123",
+    "name": "Grandeur",
+    "icon": "assets/icons/gifts/gift_123.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_124",
+    "name": "Distant Star",
+    "icon": "assets/icons/gifts/gift_124.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_175"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_125",
+    "name": "Fragment of Decay",
+    "icon": "assets/icons/gifts/gift_125.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_126",
+    "name": "Devil's Share",
+    "icon": "assets/icons/gifts/gift_126.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_179"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_127",
+    "name": "Emerald Elytra",
+    "icon": "assets/icons/gifts/gift_127.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_128",
+    "name": "Old Wooden Doll",
+    "icon": "assets/icons/gifts/gift_128.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_129",
+    "name": "Finifugality",
+    "icon": "assets/icons/gifts/gift_129.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_130",
+    "name": "Fragment of Conceit",
+    "icon": "assets/icons/gifts/gift_130.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_131",
+    "name": "UPS System",
+    "icon": "assets/icons/gifts/gift_131.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_182"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_132",
+    "name": "Uncapped Defibrilator",
+    "icon": "assets/icons/gifts/gift_132.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_133",
+    "name": "Patrolling Flashlight",
+    "icon": "assets/icons/gifts/gift_133.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_134",
+    "name": "Imitative Generator",
+    "icon": "assets/icons/gifts/gift_134.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_135",
+    "name": "Fragment of Friction",
+    "icon": "assets/icons/gifts/gift_135.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_136",
+    "name": "Scalpel",
+    "icon": "assets/icons/gifts/gift_136.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_137",
+    "name": "Deceptive Accord",
+    "icon": "assets/icons/gifts/gift_137.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_138",
+    "name": "Tailor's Scissors",
+    "icon": "assets/icons/gifts/gift_138.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_139",
+    "name": "Resolution",
+    "icon": "assets/icons/gifts/gift_139.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_140",
+    "name": "Moment of Sentencing",
+    "icon": "assets/icons/gifts/gift_140.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_141",
+    "name": "Sundered Memory",
+    "icon": "assets/icons/gifts/gift_141.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_142",
+    "name": "Carpenter's Nail",
+    "icon": "assets/icons/gifts/gift_142.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_143",
+    "name": "Once, A Blessing",
+    "icon": "assets/icons/gifts/gift_143.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_144",
+    "name": "Torn Bandolier",
+    "icon": "assets/icons/gifts/gift_144.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_391"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_145",
+    "name": "Keenbranch",
+    "icon": "assets/icons/gifts/gift_145.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_146",
+    "name": "Punctured Memory",
+    "icon": "assets/icons/gifts/gift_146.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_147",
+    "name": "Burial Curse",
+    "icon": "assets/icons/gifts/gift_147.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_148",
+    "name": "Compression Bandage",
+    "icon": "assets/icons/gifts/gift_148.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_149",
+    "name": "Temporal Bridle",
+    "icon": "assets/icons/gifts/gift_149.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_150",
+    "name": "Clasped Sculpture",
+    "icon": "assets/icons/gifts/gift_150.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_151",
+    "name": "Crushed Memory",
+    "icon": "assets/icons/gifts/gift_151.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_152",
+    "name": "Oracle",
+    "icon": "assets/icons/gifts/gift_152.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_153",
+    "name": "Imposed Weight",
+    "icon": "assets/icons/gifts/gift_153.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_237"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_154",
+    "name": "Decamillennial Stewpot",
+    "icon": "assets/icons/gifts/gift_154.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_156"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_155",
+    "name": "Decamillennial Hearthflame",
+    "icon": "assets/icons/gifts/gift_155.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_157"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_156",
+    "name": "Secret Cookbook",
+    "icon": "assets/icons/gifts/gift_156.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_101",
+      "gift_154"
+    ],
+    "fusionResult": [
+      "gift_088"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_157",
+    "name": "Purloined Flame",
+    "icon": "assets/icons/gifts/gift_157.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_087",
+      "gift_155",
+      "gift_071"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_158",
+    "name": "Millarca",
+    "icon": "assets/icons/gifts/gift_158.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_160"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_159",
+    "name": "Ruptured Blood Sac",
+    "icon": "assets/icons/gifts/gift_159.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_161"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_160",
+    "name": "Devotion",
+    "icon": "assets/icons/gifts/gift_160.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_105",
+      "gift_158"
+    ],
+    "fusionResult": [
+      "gift_090"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_161",
+    "name": "Hemorrhagic Shock",
+    "icon": "assets/icons/gifts/gift_161.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_008",
+      "gift_159",
+      "gift_048"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_162",
+    "name": "Gemstone Oscillator",
+    "icon": "assets/icons/gifts/gift_162.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_165"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_163",
+    "name": "Wobbling Keg",
+    "icon": "assets/icons/gifts/gift_163.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_165"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_164",
+    "name": "Interlocked Cogs",
+    "icon": "assets/icons/gifts/gift_164.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_165",
+    "name": "Epicenter",
+    "icon": "assets/icons/gifts/gift_165.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_162",
+      "gift_163"
+    ],
+    "fusionResult": [
+      "gift_166"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_166",
+    "name": "Omnivibro-octovecti-bell",
+    "icon": "assets/icons/gifts/gift_166.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_111",
+      "gift_114",
+      "gift_165"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_167",
+    "name": "Shard of Apocalypse",
+    "icon": "assets/icons/gifts/gift_167.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_169"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_168",
+    "name": "Thorny Rope Cuffs",
+    "icon": "assets/icons/gifts/gift_168.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_094"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_169",
+    "name": "Eerie Effigy",
+    "icon": "assets/icons/gifts/gift_169.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_117",
+      "gift_167"
+    ],
+    "fusionResult": [
+      "gift_170"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_170",
+    "name": "Ruin",
+    "icon": "assets/icons/gifts/gift_170.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_064",
+      "gift_023",
+      "gift_169"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_171",
+    "name": "Cantabile",
+    "icon": "assets/icons/gifts/gift_171.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_174"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_172",
+    "name": "Faded Overcoat",
+    "icon": "assets/icons/gifts/gift_172.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_174"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_173",
+    "name": "Tangled Bones",
+    "icon": "assets/icons/gifts/gift_173.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_096"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_174",
+    "name": "Surging Globe",
+    "icon": "assets/icons/gifts/gift_174.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_171",
+      "gift_172"
+    ],
+    "fusionResult": [
+      "gift_175"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_175",
+    "name": "Impending Wave",
+    "icon": "assets/icons/gifts/gift_175.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Healing",
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_049",
+      "gift_124",
+      "gift_174"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_176",
+    "name": "Recollection of a Certain Day",
+    "icon": "assets/icons/gifts/gift_176.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_178"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_177",
+    "name": "Angel's Cut",
+    "icon": "assets/icons/gifts/gift_177.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_179"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_178",
+    "name": "Reminiscence",
+    "icon": "assets/icons/gifts/gift_178.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_063",
+      "gift_176"
+    ],
+    "fusionResult": [
+      "gift_098"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_179",
+    "name": "Cask Spirits",
+    "icon": "assets/icons/gifts/gift_179.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_126",
+      "gift_177",
+      "gift_073"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_180",
+    "name": "Miniature Telepole",
+    "icon": "assets/icons/gifts/gift_180.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_182"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_181",
+    "name": "T-1B Octagonal Bolt",
+    "icon": "assets/icons/gifts/gift_181.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_100"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_182",
+    "name": "Insulator",
+    "icon": "assets/icons/gifts/gift_182.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_131",
+      "gift_180"
+    ],
+    "fusionResult": [
+      "gift_183"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_183",
+    "name": "T-5 Perpetual Motion Machine",
+    "icon": "assets/icons/gifts/gift_183.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_062",
+      "gift_072",
+      "gift_182"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_184",
+    "name": "Rebate Token",
+    "icon": "assets/icons/gifts/gift_184.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_185",
+    "name": "New Release Pamphlet",
+    "icon": "assets/icons/gifts/gift_185.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_186",
+    "name": "Special Catalogue",
+    "icon": "assets/icons/gifts/gift_186.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_187",
+    "name": "Pre-order Discount",
+    "icon": "assets/icons/gifts/gift_187.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_188",
+    "name": "Renewed Merch",
+    "icon": "assets/icons/gifts/gift_188.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_189",
+    "name": "Trial Plan Guide",
+    "icon": "assets/icons/gifts/gift_189.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_190",
+    "name": "Prestige Card",
+    "icon": "assets/icons/gifts/gift_190.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_191",
+    "name": "Layered Bandages",
+    "icon": "assets/icons/gifts/gift_191.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_249"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_192",
+    "name": "Overused Whetstone",
+    "icon": "assets/icons/gifts/gift_192.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_193",
+    "name": "Short Cane Sword",
+    "icon": "assets/icons/gifts/gift_193.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Defense Down",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_194",
+    "name": "Cloudpattern Gourd Bottle",
+    "icon": "assets/icons/gifts/gift_194.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_195",
+    "name": "Broken Greatsword",
+    "icon": "assets/icons/gifts/gift_195.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Damage Up",
+      "Defense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_196",
+    "name": "High-tensility Shoes",
+    "icon": "assets/icons/gifts/gift_196.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Danage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_197",
+    "name": "Plume of Proof",
+    "icon": "assets/icons/gifts/gift_197.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_198",
+    "name": "Torn Hems",
+    "icon": "assets/icons/gifts/gift_198.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_199",
+    "name": "Dueling Manual Book 3",
+    "icon": "assets/icons/gifts/gift_199.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_200",
+    "name": "Dimensional Recycle Bin",
+    "icon": "assets/icons/gifts/gift_200.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_201",
+    "name": "Pocket Flashcards",
+    "icon": "assets/icons/gifts/gift_201.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Defense Down",
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_202",
+    "name": "Dimensional Perception Modifier",
+    "icon": "assets/icons/gifts/gift_202.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Offense up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_203",
+    "name": "The Book of Vengeance",
+    "icon": "assets/icons/gifts/gift_203.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_204",
+    "name": "Blue Starshard",
+    "icon": "assets/icons/gifts/gift_204.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Power Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_205",
+    "name": "WB Flask",
+    "icon": "assets/icons/gifts/gift_205.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_249"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_206",
+    "name": "Sanguine Fragrance Descends",
+    "icon": "assets/icons/gifts/gift_206.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Healing",
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_207",
+    "name": "Chance & Choice",
+    "icon": "assets/icons/gifts/gift_207.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Damage Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_208",
+    "name": "Entangled Fate",
+    "icon": "assets/icons/gifts/gift_208.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_059",
+      "pack_062",
+      "pack_065",
+      "pack_068",
+      "pack_071",
+      "pack_074",
+      "pack_077"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_209",
+    "name": "For You Who Love the City",
+    "icon": "assets/icons/gifts/gift_209.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Offense Up",
+      "Defense Down"
+    ],
+    "packExclusive": [
+      "pack_073",
+      "pack_096"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_210",
+    "name": "Meat Tenderizer",
+    "icon": "assets/icons/gifts/gift_210.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_211",
+    "name": "Raincloud",
+    "icon": "assets/icons/gifts/gift_211.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_071",
+      "pack_088"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_212",
+    "name": "The Family's Resentment",
+    "icon": "assets/icons/gifts/gift_212.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Healing",
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_213",
+    "name": "For The Capo",
+    "icon": "assets/icons/gifts/gift_213.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_214",
+    "name": "Rules of the Middle",
+    "icon": "assets/icons/gifts/gift_214.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_215",
+    "name": "Kkomi's Mini-Gift",
+    "icon": "assets/icons/gifts/gift_215.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Healing",
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_216",
+    "name": "A Certain Philosophy",
+    "icon": "assets/icons/gifts/gift_216.png",
+    "rarity": 6,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_217",
+    "name": "Wealth",
+    "icon": "assets/icons/gifts/gift_217.png",
+    "rarity": 6,
+    "statusTypes": [],
+    "buffTypes": [
+      "Cost",
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_218",
+    "name": "Ebony Brooch",
+    "icon": "assets/icons/gifts/gift_218.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_002"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_219",
+    "name": "Contained Maggots",
+    "icon": "assets/icons/gifts/gift_219.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_002"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_220",
+    "name": "Made-to-Order",
+    "icon": "assets/icons/gifts/gift_220.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_003"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_221",
+    "name": "Haunted Shoes",
+    "icon": "assets/icons/gifts/gift_221.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_003"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_223"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_222",
+    "name": "Frozen Cries",
+    "icon": "assets/icons/gifts/gift_222.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_004"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_223"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_223",
+    "name": "Hoarfrost Footprint",
+    "icon": "assets/icons/gifts/gift_223.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Power Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_221",
+      "gift_222"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_224",
+    "name": "Nagel und Hammer Scriptures",
+    "icon": "assets/icons/gifts/gift_224.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_007"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_227"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_225",
+    "name": "Blood-red Mane",
+    "icon": "assets/icons/gifts/gift_225.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_007"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_226",
+    "name": "Squalidity",
+    "icon": "assets/icons/gifts/gift_226.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_008"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_227"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_227",
+    "name": "Wholeness",
+    "icon": "assets/icons/gifts/gift_227.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_224",
+      "gift_226"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_228",
+    "name": "Spicebush Branch",
+    "icon": "assets/icons/gifts/gift_228.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_010"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_232"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_229",
+    "name": "Kaleidoscope",
+    "icon": "assets/icons/gifts/gift_229.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_010"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_230",
+    "name": "Broken Glasses",
+    "icon": "assets/icons/gifts/gift_230.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_012"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_231",
+      "gift_232"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_231",
+    "name": "Unmailed Letter",
+    "icon": "assets/icons/gifts/gift_231.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Offense Up",
+      "Offense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_118",
+      "gift_230"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_232",
+    "name": "Spicebush, Glasses, and Mailed Letter",
+    "icon": "assets/icons/gifts/gift_232.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Offense Up",
+      "Offense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_228",
+      "gift_118",
+      "gift_230"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_233",
+    "name": "Town-protecting Harpoon",
+    "icon": "assets/icons/gifts/gift_233.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_014"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_237"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_234",
+    "name": "Cetacean Heart",
+    "icon": "assets/icons/gifts/gift_234.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_014"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_237"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_235",
+    "name": "Harpoon Prosthetic Leg",
+    "icon": "assets/icons/gifts/gift_235.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_015"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_236"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_236",
+    "name": "Guiding Gas Lamp",
+    "icon": "assets/icons/gifts/gift_236.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_235",
+      "gift_066"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_237",
+    "name": "The End of all Evil",
+    "icon": "assets/icons/gifts/gift_237.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_153",
+      "gift_233",
+      "gift_234"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_238",
+    "name": "Broken Violin",
+    "icon": "assets/icons/gifts/gift_238.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_016"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_244"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_239",
+    "name": "Manor-shaped Music Box",
+    "icon": "assets/icons/gifts/gift_239.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_016"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_240",
+    "name": "Chief Butler's Secret Arts",
+    "icon": "assets/icons/gifts/gift_240.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_017"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_241"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_241",
+    "name": "Handheld Mirror",
+    "icon": "assets/icons/gifts/gift_241.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Defense down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_240",
+      "gift_113"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_242",
+    "name": "Butler Style Binding Arts",
+    "icon": "assets/icons/gifts/gift_242.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_018"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_243",
+    "name": "Refraction Glass Pod",
+    "icon": "assets/icons/gifts/gift_243.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_018"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_244",
+    "name": "A Small, Lovely Violin",
+    "icon": "assets/icons/gifts/gift_244.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_268",
+      "gift_269",
+      "gift_238"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_245",
+    "name": "La Manchaland All-day Pass",
+    "icon": "assets/icons/gifts/gift_245.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_019",
+      "pack_020",
+      "pack_021"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_246",
+    "name": "Token of Victory",
+    "icon": "assets/icons/gifts/gift_246.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Healing",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_019",
+      "pack_020",
+      "pack_021"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_247",
+    "name": "Devouring Cube",
+    "icon": "assets/icons/gifts/gift_247.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [
+      "pack_019",
+      "pack_020",
+      "pack_021"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_248",
+    "name": "Mask of the Parade",
+    "icon": "assets/icons/gifts/gift_248.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_019",
+      "pack_020",
+      "pack_021"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_249"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_249",
+    "name": "Miniature Ferris Wheel",
+    "icon": "assets/icons/gifts/gift_249.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_191",
+      "gift_205",
+      "gift_248"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_250",
+    "name": "Searing Hammer",
+    "icon": "assets/icons/gifts/gift_250.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_025"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_251",
+    "name": "Red Necktie",
+    "icon": "assets/icons/gifts/gift_251.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_025"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_252"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_252",
+    "name": "Uniform - Liu Assoc",
+    "icon": "assets/icons/gifts/gift_252.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_102",
+      "gift_027",
+      "gift_251"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_253",
+    "name": "Someone's Device",
+    "icon": "assets/icons/gifts/gift_253.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_027"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_254",
+    "name": "Providence of the Prescript",
+    "icon": "assets/icons/gifts/gift_254.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_027"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_255",
+    "name": "Omni-tool",
+    "icon": "assets/icons/gifts/gift_255.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_027"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_256",
+    "name": "Stolen Fixer Magazine",
+    "icon": "assets/icons/gifts/gift_256.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_024"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_257",
+    "name": "Thermal Weapon",
+    "icon": "assets/icons/gifts/gift_257.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_024"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_258",
+    "name": "Pure-white Canvas",
+    "icon": "assets/icons/gifts/gift_258.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_026"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_259",
+    "name": "Average Artwork",
+    "icon": "assets/icons/gifts/gift_259.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_026"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_260"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_260",
+    "name": "Exquisite Artwork",
+    "icon": "assets/icons/gifts/gift_260.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_259",
+      "gift_039",
+      "gift_074"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_261",
+    "name": "The Spider's Thread",
+    "icon": "assets/icons/gifts/gift_261.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_026"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_262",
+    "name": "Someone's Azure Blade",
+    "icon": "assets/icons/gifts/gift_262.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_026"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_263",
+    "name": "Hot ‘n Juicy Drumstick",
+    "icon": "assets/icons/gifts/gift_263.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_028"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_264",
+    "name": "Dry-to-the-Bone Breast",
+    "icon": "assets/icons/gifts/gift_264.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_028"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_265",
+    "name": "Tango Marinade",
+    "icon": "assets/icons/gifts/gift_265.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_028"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_266",
+    "name": "Contaminated Needle & Thread",
+    "icon": "assets/icons/gifts/gift_266.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_028"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_267",
+    "name": "Sharp Needle & Thread",
+    "icon": "assets/icons/gifts/gift_267.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_028"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_268",
+    "name": "Oil-gunked Spanner",
+    "icon": "assets/icons/gifts/gift_268.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_029"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_244"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_269",
+    "name": "Twinkling Scrap",
+    "icon": "assets/icons/gifts/gift_269.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_029"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_244"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_270",
+    "name": "Trash Crab Brain Wine",
+    "icon": "assets/icons/gifts/gift_270.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_029"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_271",
+    "name": "Pom-pom Hat",
+    "icon": "assets/icons/gifts/gift_271.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_030",
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_327"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_272",
+    "name": "Huge Gift Sack",
+    "icon": "assets/icons/gifts/gift_272.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_030",
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_327"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_273",
+    "name": "Sad Plushie",
+    "icon": "assets/icons/gifts/gift_273.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_030",
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_327"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_274",
+    "name": "Black Ledger",
+    "icon": "assets/icons/gifts/gift_274.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource"
+    ],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_275",
+    "name": "Rusted Hilt",
+    "icon": "assets/icons/gifts/gift_275.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_279",
+      "gift_280"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_276",
+    "name": "Fractured Blade",
+    "icon": "assets/icons/gifts/gift_276.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_279",
+      "gift_345"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_277",
+    "name": "Broken Blade",
+    "icon": "assets/icons/gifts/gift_277.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_280",
+      "gift_346"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_278",
+    "name": "Red Tassel",
+    "icon": "assets/icons/gifts/gift_278.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_279",
+    "name": "Sublimity",
+    "icon": "assets/icons/gifts/gift_279.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_275",
+      "gift_276"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_280",
+    "name": "Unbending",
+    "icon": "assets/icons/gifts/gift_280.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_275",
+      "gift_277"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_281",
+    "name": "Ragged Bamboo Hat",
+    "icon": "assets/icons/gifts/gift_281.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_282",
+    "name": "Old Dopo Robe",
+    "icon": "assets/icons/gifts/gift_282.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_031",
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_283",
+    "name": "Silver Watch Case",
+    "icon": "assets/icons/gifts/gift_283.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_290",
+      "gift_291"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_284",
+    "name": "Faded Watch Case",
+    "icon": "assets/icons/gifts/gift_284.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_292",
+      "gift_293"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_285",
+    "name": "Warning Notice",
+    "icon": "assets/icons/gifts/gift_285.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_286",
+    "name": "Etched Clock Hands",
+    "icon": "assets/icons/gifts/gift_286.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_290",
+      "gift_292"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_287",
+    "name": "Rusted Clock Hands",
+    "icon": "assets/icons/gifts/gift_287.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_291",
+      "gift_293"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_288",
+    "name": "Chalice of Trickle-down",
+    "icon": "assets/icons/gifts/gift_288.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_289",
+    "name": "Prepaid Time Receipt",
+    "icon": "assets/icons/gifts/gift_289.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Power Down"
+    ],
+    "packExclusive": [
+      "pack_032",
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_290",
+    "name": "Pocket Watch : Type L",
+    "icon": "assets/icons/gifts/gift_290.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_283",
+      "gift_286"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_291",
+    "name": "Pocket Watch : Type E",
+    "icon": "assets/icons/gifts/gift_291.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_283",
+      "gift_287"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_292",
+    "name": "Pocket Watch : Type Y",
+    "icon": "assets/icons/gifts/gift_292.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_284",
+      "gift_286"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_293",
+    "name": "Pocket Watch : Type P",
+    "icon": "assets/icons/gifts/gift_293.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_284",
+      "gift_287"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_294",
+    "name": "Economy Class Discount Voucher",
+    "icon": "assets/icons/gifts/gift_294.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_295",
+    "name": "Canned Ice Cream",
+    "icon": "assets/icons/gifts/gift_295.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_296",
+    "name": "E-Type Dimensional Dagger",
+    "icon": "assets/icons/gifts/gift_296.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_388"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_297",
+    "name": "Portable Barrier Battery",
+    "icon": "assets/icons/gifts/gift_297.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_388"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_298",
+    "name": "Biogenerative Battery",
+    "icon": "assets/icons/gifts/gift_298.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_302",
+      "gift_303"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_299",
+    "name": "Cardiovascular Reactive Module",
+    "icon": "assets/icons/gifts/gift_299.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_304",
+      "gift_305"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_300",
+    "name": "Prosthetic Joint Servos",
+    "icon": "assets/icons/gifts/gift_300.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_302",
+      "gift_304"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_301",
+    "name": "Crystallized Blood",
+    "icon": "assets/icons/gifts/gift_301.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_033",
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_303",
+      "gift_305"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_302",
+    "name": "Automated Joints",
+    "icon": "assets/icons/gifts/gift_302.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_298",
+      "gift_300"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_303",
+    "name": "Overcharged Battery",
+    "icon": "assets/icons/gifts/gift_303.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_298",
+      "gift_301"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_304",
+    "name": "Perpetual Generator Servos",
+    "icon": "assets/icons/gifts/gift_304.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Offense Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_299",
+      "gift_300"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_305",
+    "name": "Hearts-powered Jewel",
+    "icon": "assets/icons/gifts/gift_305.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_299",
+      "gift_301"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_306",
+    "name": "Filial Love",
+    "icon": "assets/icons/gifts/gift_306.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_307",
+    "name": "Misaligned Transistor",
+    "icon": "assets/icons/gifts/gift_307.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_308",
+    "name": "Mental Corruption Boosting Gas",
+    "icon": "assets/icons/gifts/gift_308.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_309",
+    "name": "Leaked Enkephalin",
+    "icon": "assets/icons/gifts/gift_309.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_310",
+    "name": "Hardship",
+    "icon": "assets/icons/gifts/gift_310.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_311",
+    "name": "Crown of Thorns",
+    "icon": "assets/icons/gifts/gift_311.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_312",
+    "name": "Rest",
+    "icon": "assets/icons/gifts/gift_312.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_034"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_313",
+    "name": "Snake Slough",
+    "icon": "assets/icons/gifts/gift_313.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Defense Up",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_035"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_314",
+    "name": "False Halo",
+    "icon": "assets/icons/gifts/gift_314.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_035"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_315",
+    "name": "Metronome",
+    "icon": "assets/icons/gifts/gift_315.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_036"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_316",
+    "name": "Bridle",
+    "icon": "assets/icons/gifts/gift_316.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_036"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_317",
+    "name": "Contempt of the Gaze of Contempt",
+    "icon": "assets/icons/gifts/gift_317.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_037"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_318",
+    "name": "Unhatched Embers",
+    "icon": "assets/icons/gifts/gift_318.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_319",
+    "name": "Anti-Ovine Grounding Plug",
+    "icon": "assets/icons/gifts/gift_319.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_038",
+      "pack_039"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_320",
+    "name": "Vestiges of the King",
+    "icon": "assets/icons/gifts/gift_320.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "EGO Resource"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_321",
+    "name": "Snuffed Lantern",
+    "icon": "assets/icons/gifts/gift_321.png",
+    "rarity": 1,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_323"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_322",
+    "name": "Snuffed Candlestick",
+    "icon": "assets/icons/gifts/gift_322.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_323"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_323",
+    "name": "Shadow Monster",
+    "icon": "assets/icons/gifts/gift_323.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Offense Down",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_321",
+      "gift_322"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_324",
+    "name": "Packaging Box",
+    "icon": "assets/icons/gifts/gift_324.png",
+    "rarity": 1,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_326"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_325",
+    "name": "Packaging Ribbon",
+    "icon": "assets/icons/gifts/gift_325.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Defense Down"
+    ],
+    "packExclusive": [
+      "pack_040"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_326"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_326",
+    "name": "Gift",
+    "icon": "assets/icons/gifts/gift_326.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Defense Up",
+      "Damage Up",
+      "Defense Down"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_324",
+      "gift_325"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_327",
+    "name": "Jolly Plushie",
+    "icon": "assets/icons/gifts/gift_327.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_271",
+      "gift_272",
+      "gift_273"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_328",
+    "name": "Implicit Contract Renewal",
+    "icon": "assets/icons/gifts/gift_328.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "EGO Resource"
+    ],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_329",
+    "name": "Darkflame Smoking Pipe",
+    "icon": "assets/icons/gifts/gift_329.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_330",
+    "name": "Equalizer",
+    "icon": "assets/icons/gifts/gift_330.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_331",
+    "name": "Swift Command",
+    "icon": "assets/icons/gifts/gift_331.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_332",
+    "name": "Gear Shrapnel",
+    "icon": "assets/icons/gifts/gift_332.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Defense Up",
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_333",
+    "name": "CQC Manual",
+    "icon": "assets/icons/gifts/gift_333.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_041"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_334",
+    "name": "Combustion Gloves",
+    "icon": "assets/icons/gifts/gift_334.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_335",
+    "name": "Spiked Combat Boots",
+    "icon": "assets/icons/gifts/gift_335.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_336",
+    "name": "Re-ignition Plug",
+    "icon": "assets/icons/gifts/gift_336.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Defense Down",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_337",
+    "name": "Enhancer Mk.4",
+    "icon": "assets/icons/gifts/gift_337.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_338",
+    "name": "Embers",
+    "icon": "assets/icons/gifts/gift_338.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_339",
+    "name": "Twigs",
+    "icon": "assets/icons/gifts/gift_339.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Down"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_340",
+    "name": "Regular Operational Gear",
+    "icon": "assets/icons/gifts/gift_340.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_342"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_341",
+    "name": "Operation Authorization Card",
+    "icon": "assets/icons/gifts/gift_341.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_042",
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_342"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_342",
+    "name": "High-risk Operational Gear",
+    "icon": "assets/icons/gifts/gift_342.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_340",
+      "gift_341"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_343",
+    "name": "Hardwood Liquor Cup",
+    "icon": "assets/icons/gifts/gift_343.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_344",
+    "name": "Worn Hilt",
+    "icon": "assets/icons/gifts/gift_344.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_345",
+      "gift_346"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_345",
+    "name": "Resplendence",
+    "icon": "assets/icons/gifts/gift_345.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_344",
+      "gift_276"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_346",
+    "name": "Cultivation",
+    "icon": "assets/icons/gifts/gift_346.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_344",
+      "gift_277"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_347",
+    "name": "Swarmcloud",
+    "icon": "assets/icons/gifts/gift_347.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Offense Up",
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_043"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_348",
+    "name": "Enh. Tattoos - The Middle",
+    "icon": "assets/icons/gifts/gift_348.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_349",
+    "name": "Strange Glyph Talisman",
+    "icon": "assets/icons/gifts/gift_349.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_355"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_350",
+    "name": "Harestride",
+    "icon": "assets/icons/gifts/gift_350.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_351",
+    "name": "Chains of Loyalty",
+    "icon": "assets/icons/gifts/gift_351.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_354"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_352",
+    "name": "Strange Glyph Inscriptions",
+    "icon": "assets/icons/gifts/gift_352.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_355"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_353",
+    "name": "Shadow Bamboo Hat",
+    "icon": "assets/icons/gifts/gift_353.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_354",
+    "name": "Everlasting Chains of Bond",
+    "icon": "assets/icons/gifts/gift_354.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Blunt"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_351"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_355",
+    "name": "Glyph of Glass Shards",
+    "icon": "assets/icons/gifts/gift_355.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_349",
+      "gift_352"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_356",
+    "name": "Swishing Fuel Tank",
+    "icon": "assets/icons/gifts/gift_356.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_044"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_357",
+    "name": "A Drop",
+    "icon": "assets/icons/gifts/gift_357.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_019",
+      "pack_020",
+      "pack_021"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_358",
+    "name": "Sorrowful Exhale",
+    "icon": "assets/icons/gifts/gift_358.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_045"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_359",
+    "name": "Shatterbound Cannon",
+    "icon": "assets/icons/gifts/gift_359.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up",
+      "Defense Down"
+    ],
+    "packExclusive": [
+      "pack_045"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_360",
+    "name": "Coveting Thorn",
+    "icon": "assets/icons/gifts/gift_360.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_045"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_361",
+    "name": "Tenacity Bolus",
+    "icon": "assets/icons/gifts/gift_361.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_022"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_362",
+    "name": "Lightning Axe",
+    "icon": "assets/icons/gifts/gift_362.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_022"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_363",
+    "name": "Flower in the Mirror",
+    "icon": "assets/icons/gifts/gift_363.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_023"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_364",
+    "name": "Moon in the Water",
+    "icon": "assets/icons/gifts/gift_364.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Poise"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_023"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_365",
+    "name": "Ashen Constellation's Blessing",
+    "icon": "assets/icons/gifts/gift_365.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_366",
+    "name": "The Unchosen",
+    "icon": "assets/icons/gifts/gift_366.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_367",
+    "name": "Sword Sharpened with Tears",
+    "icon": "assets/icons/gifts/gift_367.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_368",
+    "name": "Magical Girl's Lovely Gift",
+    "icon": "assets/icons/gifts/gift_368.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_369",
+    "name": "Spent Use, Forming Hate",
+    "icon": "assets/icons/gifts/gift_369.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_370",
+    "name": "Trauma Shield",
+    "icon": "assets/icons/gifts/gift_370.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_371",
+    "name": "Value Disposal",
+    "icon": "assets/icons/gifts/gift_371.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "EGO Resource",
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_046"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_372",
+    "name": "Interlinked Time",
+    "icon": "assets/icons/gifts/gift_372.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_373",
+    "name": "Emergency Investigator Badge",
+    "icon": "assets/icons/gifts/gift_373.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_374",
+    "name": "Entanglement Override Sequencer",
+    "icon": "assets/icons/gifts/gift_374.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_375",
+    "name": "Microprecision Time Accelerator",
+    "icon": "assets/icons/gifts/gift_375.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_047"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_376",
+    "name": "Blackiron Barding",
+    "icon": "assets/icons/gifts/gift_376.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Tremor"
+    ],
+    "buffTypes": [
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_377",
+    "name": "Bloodflame Sword",
+    "icon": "assets/icons/gifts/gift_377.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_378",
+    "name": "Red Cloth that Closes the Heart",
+    "icon": "assets/icons/gifts/gift_378.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Slash"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_379",
+    "name": "Shaoxing Wine",
+    "icon": "assets/icons/gifts/gift_379.png",
+    "rarity": 2,
+    "statusTypes": [],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_380",
+    "name": "Virtue - Zhi (智)",
+    "icon": "assets/icons/gifts/gift_380.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Defense Up"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_383"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_381",
+    "name": "Virtue - Yong (勇)",
+    "icon": "assets/icons/gifts/gift_381.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_383"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_382",
+    "name": "Virtue - Ren (仁)",
+    "icon": "assets/icons/gifts/gift_382.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Healing"
+    ],
+    "packExclusive": [
+      "pack_048"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_383"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_383",
+    "name": "Cultivation: Cut, File, Carve, Polish",
+    "icon": "assets/icons/gifts/gift_383.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Defense Up",
+      "Healing"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_380",
+      "gift_381",
+      "gift_382"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_384",
+    "name": "Bloody Flesh, Fleshy Blood",
+    "icon": "assets/icons/gifts/gift_384.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_385",
+    "name": "Hardblood Glaive",
+    "icon": "assets/icons/gifts/gift_385.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_386",
+    "name": "W Corp. Standard Issue Cap",
+    "icon": "assets/icons/gifts/gift_386.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_388"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_387",
+    "name": "Discarded Dimensional Gauntlet",
+    "icon": "assets/icons/gifts/gift_387.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_049"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_388",
+    "name": "Cleanup Agent Gear Set C",
+    "icon": "assets/icons/gifts/gift_388.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_386",
+      "gift_296",
+      "gift_297"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_389",
+    "name": "Staticky Two-way Radio",
+    "icon": "assets/icons/gifts/gift_389.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_391"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_390",
+    "name": "Beak-shaped Necklace",
+    "icon": "assets/icons/gifts/gift_390.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_391"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_391",
+    "name": "Desperado",
+    "icon": "assets/icons/gifts/gift_391.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Pierce"
+    ],
+    "buffTypes": [
+      "Offense Up",
+      "Power Up",
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_389",
+      "gift_390",
+      "gift_144"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_392",
+    "name": "Harmonics",
+    "icon": "assets/icons/gifts/gift_392.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_393",
+    "name": "Walking Bass",
+    "icon": "assets/icons/gifts/gift_393.png",
+    "rarity": 2,
+    "statusTypes": [
+      "Bleed"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_394",
+    "name": "Pink Petals",
+    "icon": "assets/icons/gifts/gift_394.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [
+      "gift_395"
+    ],
+    "description": null
+  },
+  {
+    "id": "gift_395",
+    "name": "Pink Bouquet",
+    "icon": "assets/icons/gifts/gift_395.png",
+    "rarity": 4,
+    "statusTypes": [
+      "Sinking"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Defense Down",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": [
+      "gift_086",
+      "gift_394"
+    ],
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_396",
+    "name": "Royal Jelly Perfume",
+    "icon": "assets/icons/gifts/gift_396.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_397",
+    "name": "Still-warm Coffee",
+    "icon": "assets/icons/gifts/gift_397.png",
+    "rarity": 3,
+    "statusTypes": [],
+    "buffTypes": [
+      "Healing",
+      "Power Up"
+    ],
+    "packExclusive": [
+      "pack_050"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_398",
+    "name": "Trial Extraction : A.B.S",
+    "icon": "assets/icons/gifts/gift_398.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Burn"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_399",
+    "name": "Trial Extraction : Lantern",
+    "icon": "assets/icons/gifts/gift_399.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Rupture"
+    ],
+    "buffTypes": [
+      "Damage Up",
+      "Power Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_400",
+    "name": "Modified Extraction : AEDD",
+    "icon": "assets/icons/gifts/gift_400.png",
+    "rarity": 3,
+    "statusTypes": [
+      "Charge"
+    ],
+    "buffTypes": [
+      "Offense Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_401",
+    "name": "Someone's Dropped Employee Card",
+    "icon": "assets/icons/gifts/gift_401.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "EGO Resource"
+    ],
+    "packExclusive": [
+      "pack_051"
+    ],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_402",
+    "name": "Bongy Plush",
+    "icon": "assets/icons/gifts/gift_402.png",
+    "rarity": 4,
+    "statusTypes": [],
+    "buffTypes": [
+      "Power Up",
+      "Damage Up",
+      "Cost"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  },
+  {
+    "id": "gift_403",
+    "name": "Fragment of Hellfire",
+    "icon": "assets/icons/gifts/gift_403.png",
+    "rarity": 4,
+    "statusTypes": ["Burn"],
+    "buffTypes": [
+      "Damage Up"
+    ],
+    "packExclusive": [],
+    "fusionIngredients": null,
+    "fusionResult": [],
+    "description": null
+  }
+]

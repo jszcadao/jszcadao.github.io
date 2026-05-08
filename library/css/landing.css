@@ -1,0 +1,135 @@
+/* Main landing page layouts */
+.page-landing {
+  background-image: url('../html/assets/images/background/bg4.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.landing-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: var(--spacing-xxl) var(--spacing-xl);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Landing page header */
+.landing-header {
+  text-align: center;
+  margin-bottom: var(--spacing-xxl);
+}
+
+.site-title {
+  font-size: var(--font-size-xxl);
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+}
+
+.site-subtitle {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-secondary);
+  font-weight: normal;
+}
+
+
+/* Navigation buttons */
+.landing-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-lg);
+}
+
+.landing-nav-secondary {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--spacing-md);
+}
+
+.nav-btn {
+  display: block;
+  background-color: var(--color-bg-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-lg);
+  text-decoration: none;
+  transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.nav-btn:hover {
+  background-color: var(--color-bg-elevated);
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+}
+
+.nav-btn:hover .nav-btn-label {
+  color: var(--color-accent);
+}
+
+/* Button to direct to planner section, with emphasis */
+.nav-btn--primary {
+  padding: var(--spacing-xl);
+  border-width: 2px;
+  border-color: var(--color-accent);
+  background-color: var(--color-bg-elevated);
+}
+
+.nav-btn--primary .nav-btn-label {
+  font-size: var(--font-size-xl);
+  color: var(--color-accent);
+}
+
+.nav-btn--primary:hover {
+  background-color: var(--color-accent);
+  border-color: var(--color-accent-hover);
+}
+
+.nav-btn--primary:hover .nav-btn-label {
+  color: var(--color-text-primary);
+}
+
+/* Button to direct to the gift and pack section, less emphasis */
+.nav-btn--secondary .nav-btn-label {
+  font-size: var(--font-size-lg);
+  color: var(--color-text-primary);
+}
+
+
+/* Button labels and descriptions */
+.nav-btn-label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: var(--spacing-xs);
+  transition: color 0.2s ease;
+}
+
+.nav-btn-desc {
+  display: block;
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+  line-height: 1.4;
+}
+
+
+/* Media queries */
+@media (min-width: 1440px) {
+  .landing-container {
+    max-width: 1000px;
+  }
+
+  .site-title {
+    font-size: 56px;
+  }
+}
+
+@media (min-width: 1920px) {
+  .landing-container {
+    max-width: 1200px;
+  }
+
+  .site-title {
+    font-size: 64px;
+  }
+}

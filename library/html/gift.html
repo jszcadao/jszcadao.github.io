@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EGO Gifts | Refraction Railway Logs</title>
+  <link rel="stylesheet" href="../css/main.css" />
+  <link rel="stylesheet" href="../css/gift.css" />
+</head>
+<body class="page-gifts">
+
+  <nav class="navbar">
+    <a href="landing.html" class="navbar-logo"><span class="titleFlair">R</span>efraction <span class="titleFlair">R</span>ailway <span class="titleFlair">L</span>ogs</a>
+    <ul class="navbar-links">
+      <li><a href="planner.html" class="navbar-link">Planner</a></li>
+      <li><a href="gift.html" class="navbar-link navbar-link--active">EGO Gifts</a></li>
+      <li><a href="pack.html" class="navbar-link">Theme Packs</a></li>
+    </ul>
+  </nav>
+
+  <div class="gifts-layout">
+
+    <section class="filter-bar" id="filterBar">
+      <h2 class="filter-bar-title">Filters</h2>
+
+      <div class="filter-group">
+        <span class="filter-group-label">Rarity</span>
+        <div class="filter-group-buttons" id="rarityFilterButtons"></div>
+      </div>
+
+      <div class="filter-group">
+        <span class="filter-group-label">Status Type</span>
+        <div class="filter-group-buttons" id="statusFilterButtons"></div>
+      </div>
+
+      <div class="filter-group">
+        <span class="filter-group-label">Effect Type</span>
+        <div class="filter-group-buttons" id="buffFilterButtons"></div>
+      </div>
+    </section>
+    <section class="gift-grid" id="giftGrid">
+    </section>
+
+    <div class="gift-popup" id="giftPopup" hidden>
+      <h3 class="gift-popup-name" id="popupGiftName"></h3>
+      <p class="gift-popup-rarity" id="popupGiftRarity"></p>
+      <div class="gift-popup-tags" id="popupGiftStatus"></div>
+      <div class="gift-popup-tags" id="popupGiftBuffs"></div>
+      <div class="gift-popup-recipe" id="popupGiftRecipe"></div>
+      <div class="gift-popup-pack" id="popupGiftPack"></div>
+      <div class="gift-popup-description" id="popupGiftDescription"></div>
+    </div>
+
+  </div>
+
+  <script src="../js/data.js"></script>
+  <script src="../js/gifts.js"></script>
+
+</body>
+</html>
